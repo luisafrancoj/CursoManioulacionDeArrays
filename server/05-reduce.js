@@ -17,3 +17,5 @@ console.log(sum2);
 
 const rta = totals.reduce((sum,element) => sum + element , 0);
 console.log(rta)
+console.log(totals)
+

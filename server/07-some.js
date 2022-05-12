@@ -85,3 +85,8 @@ const isOverlap= (newDate) => {
 }
 
 console.log(isOverlap(newAppointment));
+
+const array = ['🐸', '🍓', '🍏']
+const rtaX= array.some(item => item === '🐸')
+
+console.log(rtaX)

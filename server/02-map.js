@@ -16,3 +16,9 @@ console.log('new' , newArray);
 const newArrayMap = letters.map(item => item + '++');
 
 console.log(newArrayMap);
+
+const array = ['a', 'bb', 'ccc'];
+const rtaX = array.map(item => item.length);
+
+console.log(rtaX);
+
